@@ -33,6 +33,7 @@
 - 💀 Death Count (Average)
 - 💚 Recovered Count (Average)
 - 📉 Death Rate (%) by Nation which is measured as (Average Death count / Average Confirmed Cases)*100
+- This is death rate among infected individuals also known as case fatality rate or CFR
 - 📍 Comparative Country Clusters
 
 ---
