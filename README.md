@@ -32,7 +32,7 @@
 - 🦠 Confirmed Cases (Average)
 - 💀 Death Count (Average)
 - 💚 Recovered Count (Average)
-- 📉 Death Rate (%) by Nation
+- 📉 Death Rate (%) by Nation which is measured as (Average Death count / Average Confirmed Cases)*100
 - 📍 Comparative Country Clusters
 
 ---
