@@ -51,9 +51,9 @@
 - [Power BI Desktop](https://powerbi.microsoft.com/)
 - DAX & Data Modeling
 - Official COVID-19 Datasets (WHO, JHU, OWID, etc.)
-- 📄 [View Confirmed Cases Dataset](.data/time_series_covid19_confirmed_global.csv)
-- 📄 [View Death Cases Dataset](.data/time_series_covid19_deaths_global.csv)
-- 📄 [View Recovered Cases Dataset](.data/time_series_covid19_recovered_global.csv)
+- 📄 [View Confirmed Cases Dataset](./data/time_series_covid19_confirmed_global.csv)
+- 📄 [View Death Cases Dataset](./data/time_series_covid19_deaths_global.csv)
+- 📄 [View Recovered Cases Dataset](./data/time_series_covid19_recovered_global.csv)
 - Bing Maps for Geo-Visualization
 
 ---
