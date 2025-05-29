@@ -70,12 +70,12 @@
 
 ## 📁 Project Structure
 📦 Global-COVID19-PowerBI-Dashboard/
-├── 📄 Covid19Analysis.pdf                  # Exported Power BI dashboard as PDF
-├── 📄 LICENSE                              # MIT License file
-├── 📄 README.md                            # Project documentation
-├── 📁 data/                                # COVID-19 dataset folder (optional grouping)
-│   ├── all_country_flags_w80_dataset.csv  # Country flags and metadata
-│   ├── time_series_covid19_confirmed_global.csv
-│   ├── time_series_covid19_deaths_global.csv
-│   └── time_series_covid19_recovered_global.csv
+- 📄 Covid19Analysis.pdf                  - Exported Power BI dashboard as PDF
+- 📄 LICENSE                              - MIT License file
+- 📄 README.md                            - Project documentation
+- 📁 data/                                - COVID-19 dataset folder (optional grouping)
+   - all_country_flags_w80_dataset.csv   -Country flags and metadata
+   - time_series_covid19_confirmed_global.csv
+   - time_series_covid19_deaths_global.csv
+   - time_series_covid19_recovered_global.csv
 
