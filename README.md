@@ -37,6 +37,41 @@
 - 📍 Comparative Country Clusters
 
 ---
+## 📉 Understanding Case Fatality Rate (CFR)
+
+> **Case Fatality Rate (CFR)** is a crucial epidemiological indicator that measures the severity of a disease by calculating the percentage of diagnosed individuals who eventually die from it.
+
+### 🔢 Formula
+
+\[
+\text{CFR (\%)} = \left( \frac{\text{Total Deaths}}{\text{Total Confirmed Cases}} \right) \times 100
+\]
+
+### 🧠 Why CFR Matters
+
+- 📌 **Indicates disease severity** and public health impact.
+- 📉 A high CFR may point to:
+  - Ineffective treatment or overwhelmed healthcare systems
+  - Late diagnosis or limited access to care
+  - More aggressive viral strains
+- 📈 A declining CFR may indicate:
+  - Better testing and early detection
+  - Improved healthcare infrastructure
+  - Effective vaccination or natural immunity
+
+### ⚠️ CFR vs IFR
+
+> **CFR** considers only **confirmed cases**.  
+> **IFR (Infection Fatality Rate)** accounts for **all infected people**, including undiagnosed cases — thus generally lower than CFR.
+
+### 📊 CFR in This Dashboard
+
+In this Power BI project, CFR is:
+- Visualized as **year-wise trends** for each country (2020–2023).
+- Used to **compare fatality outcomes** between nations like 🇮🇳 India, 🇺🇸 USA, 🇨🇳 China, 🇷🇺 Russia, and G7 members.
+- Helps identify how different countries managed the pandemic over time.
+
+---
 
 ## 🌍 Countries Analyzed
 
@@ -51,10 +86,10 @@
 
 - [Power BI Desktop](https://powerbi.microsoft.com/)
 - DAX & Data Modeling
-- Official COVID-19 Datasets (WHO, JHU, OWID, etc.)
-- 📄 [View Confirmed Cases Dataset](./data/time_series_covid19_confirmed_global.csv)
-- 📄 [View Death Cases Dataset](./data/time_series_covid19_deaths_global.csv)
-- 📄 [View Recovered Cases Dataset](./data/time_series_covid19_recovered_global.csv)
+- ### Official COVID-19 Datasets (Johns Hopkins University CSSE)
+    - 📄 [View Confirmed Cases Dataset](./data/time_series_covid19_confirmed_global.csv)
+    - 📄 [View Death Cases Dataset](./data/time_series_covid19_deaths_global.csv)
+    - 📄 [View Recovered Cases Dataset](./data/time_series_covid19_recovered_global.csv)
 - Bing Maps for Geo-Visualization
 
 ---
