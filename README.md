@@ -21,7 +21,7 @@
 
 ## 📌 Project Preview
 
-![Preview of Dashboard](preview-image.png)  
+📄 [View Full Dashboard PDF](./Covid19Analysis.pdf)
 *Interactive Power BI dashboard visualizing confirmed cases, death rates, and recovery stats*
 
 ---
@@ -51,6 +51,9 @@
 - [Power BI Desktop](https://powerbi.microsoft.com/)
 - DAX & Data Modeling
 - Official COVID-19 Datasets (WHO, JHU, OWID, etc.)
+- 📄 [View Confirmed Cases Dataset](./time_series_covid19_confirmed_global.csv)
+- 📄 [View Death Cases Dataset](./time_series_covid19_deaths_global.csv)
+- 📄 [View Recovered Cases Dataset](./time_series_covid19_recovered_global.csv)
 - Bing Maps for Geo-Visualization
 
 ---
