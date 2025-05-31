@@ -16,6 +16,9 @@
 ⚰️ **Death Rate Trends across Continents**  
 📌 **Top 5 Pandemic-hit Nations**  
 🌍 **G7 Nations Comparative Dashboard**
+💡 **Key Influencer Insights: AI-driven insights into what factors contribute to higher case counts**
+
+
 
 ---
 
@@ -81,6 +84,18 @@ In this Power BI project, CFR is:
 - **Europe & Others**: 🇷🇺 Russia, 🇹🇷 Turkey, 🇬🇷 Greece, 🇾🇪 Yemen
 
 ---
+## 🚀 Getting Started
+- To explore the report on your system:
+
+- Download the [Covid19Analysis.pbix](./Covid19Analysis.pbix) file from this repository.
+
+- Install Power BI Desktop if you haven't already.
+
+- Open the file in Power BI Desktop to interact with the visuals.
+
+- Use the slicers (year, country) to filter data dynamically and explore trends.
+
+- Hover over data points or use drillthrough options to uncover more details.
 
 ## 🧰 Built With
 
